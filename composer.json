@@ -1,0 +1,11 @@
+{
+    "name": "kukko/jquery-autocomplete",
+    "description": "This is a fork of Devbridge's jQuery autocomplete plugin: https://github.com/devbridge/jQuery-Autocomplete",
+    "keywords": ["jquery", "autocomplete"],
+    "support": {
+        "issues": "https://github.com/devbridge/jQuery-Autocomplete/issues",
+        "wiki": "http://www.devbridge.com/projects/autocomplete/jquery",
+		"source": "https://github.com/devbridge/jQuery-Autocomplete"
+    },
+    "license": "MIT"
+}
